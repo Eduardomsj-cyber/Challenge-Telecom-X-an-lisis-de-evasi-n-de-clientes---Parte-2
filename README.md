@@ -1,4 +1,10 @@
-# Predicción de Fuga de Clientes (Churn) - TelecomX
+<p align="left">
+  <img src="https://img.shields.io/badge/STATUS-Finalizado-brightgreen" alt="Status: En Finalizado">
+  <img src="https://img.shields.io/badge/Python-3.x-blue" alt="Python 3.x">
+  <img src="https://img.shields.io/badge/Data%20Science-An%C3%A1lisis%20de%20Ventas-orange" alt="Data Science: Análisis de Ventas">
+</p>
+
+# Predicción de Fuga de Clientes  - TelecomX 2
 
 Este proyecto implementa un flujo completo de Ciencia de Datos para predecir la cancelación de servicios en una empresa de telecomunicaciones, utilizando técnicas avanzadas de preprocesamiento y modelos de Machine Learning.
 
