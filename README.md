@@ -1,7 +1,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/STATUS-Finalizado-brightgreen" alt="Status: En Finalizado">
   <img src="https://img.shields.io/badge/Python-3.x-blue" alt="Python 3.x">
-  <img src="https://img.shields.io/badge/Data%20Science-An%C3%Modelo%20 de %20Prediccion-orange" alt="Modelo Predictivo">
+  <img src="https://img.shields.io/badge/Data%20Science-Modelo%20de%20Predicci%C3%B3n-orange" alt="Modelo Predictivo">
 </p>
 
 # Predicción de Fuga de Clientes  - TelecomX 2
